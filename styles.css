@@ -270,6 +270,18 @@ html, body {
     background-color: green;
 } */
 
+
+.tjteks {
+    display: flex;
+    margin-left: 19rem;
+    align-items: center;
+}
+.tjteks img {
+    margin-top: -4px;
+    margin-left: 5px;
+    width: 40px;
+    height: 40px;
+}
 .cart-column {
     display: flex;
     align-items: center;
