@@ -260,6 +260,10 @@ html, body {
     overflow: hidden;
 }
 
+.shop-item-button {
+    margin-left: 1.7rem;
+}
+
 .cart-header {
     font-weight: bold;
     font-size: 1.25em;
