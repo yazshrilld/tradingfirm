@@ -139,6 +139,10 @@ html, body {
     height: 30px;
 }
 
+/* .display {
+    opacity: 0;
+} */
+
 .btn {
     text-align: center;
     vertical-align: middle;
@@ -232,7 +236,14 @@ html, body {
     font-weight: bold;
     font-size: 1.5em;
     color: #333;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+}
+
+.spec-info {
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: #333;
 }
 
 .shop-item-image {
